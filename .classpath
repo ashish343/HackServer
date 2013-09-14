@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/FactualAnsweringSystem/war/WEB-INF/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/adt-bundle-windows-x86-20130522/sdk/platforms/android-17/android.jar">
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/adt-bundle-windows-x86-20130522/sdk/extras/google/gcm/gcm-server/dist/gcm-server.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Hack"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
